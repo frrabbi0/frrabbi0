@@ -1,6 +1,14 @@
 <h1 align="center">I'm F R Rabbi</h1>
 <h3 align="center">I'm Simple developer from Bangladesh</h3>
 
+<!DOCTYPE html>
+<html>
+</head>
+<body>
+   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+</body>
+</html>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frrabbi0&label=Profile%20views&color=0e75b6&style=flat" alt="frrabbi0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frrabbi0" alt="frrabbi0" /></a> </p>
